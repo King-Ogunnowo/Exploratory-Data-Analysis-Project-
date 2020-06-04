@@ -1,0 +1,48 @@
+Analysis and Insights on Ad Bids Between 22 nd July and 21 st August 2019
+
+A total of 201,858 Ad bids were conducted between the 22 nd of July and 21 st of
+August 2019 (a period of one month) from different locations and through a plethora
+of sites and apps on which the Ads were deployed. Ads bids improve after the first
+week of deployment as consumers should be given time to become aware of
+adverts (opportunities presented). Such is the case with this sets of ads as they
+performed below expectations between 22 nd July – 1 st August 2019 and began
+improving gradually on the 2 nd of August 2019.
+
+Generally, Ad bids are higher on weekdays than weekends. This is so on the 19 th
+(Monday), 20 th (Tuesday) and 21 st (Wednesday) of August 2019 where Ad bids
+totalled at 28,353; 60,468 and 42,581 respectively. This is due to a number of
+reasons. Firstly, people being at work means they have Wi-Fi and internet access.
+Secondly, colleagues interact with each other concerning Ads sighted. On an
+average, ads perform well during the hours of 9:00am and 17:00pm. Within this
+interval, the numbers peak at 12 noon as this is break time.
+
+Four types of devices were used in bidding for ads. Phones and Tablets perform
+better than personal computers and Connected TVs. People are at work and on
+the go. Hence, they will view ads more comfortably on Phones than other devices.
+More interestingly, Android phones and Tablets tend to feature more than
+Apple phones in ad Bids. Most people use Android because it is cheaper as
+compared to Apple devices.
+
+Phones, personal computers, tablets tend to bid more on sites than apps. This
+is most likely because of the distractions ads cause when they appear
+spontaneously on apps.
+
+Bids through sites are higher through the ADX exchange than Opera. On the
+other hand, bids through Apps are higher on the Opera exchange than ADX.
+Furthermore, Bids with phones are higher on sites with phones are higher on
+the ADX exchange than Opera. This is the same with Connected TVs, Personal
+Computers and Tablets.
+
+Additionally, it is noticed that news sites such as newsnow, dailymail,
+dailypost record more ad bids especially through the ADX exchange but not
+through the Opera exchange. Conversely, Apps such as MINI Final, News Final
+record more ad bids than others especially through the Opera exchange.
+As regards location, Bids from Lagos and Abuja are higher than other states
+within Nigeria. This is due to the make-up of these states. They are commercial
+zones, literacy and internet friendliness are generally high and these areas are
+densely populated. Geopolitically, the South West records higher bids followed
+by the North Central, reinforcing Lagos and Abuja as crucial areas.
+
+https://public.tableau.com/profile/seyi.ogunnowo#!/vizhome/POC_15905798555120/
+Dashboard1?publish=yes
+The link above leads to the dashboard on the salient points discussed above.
